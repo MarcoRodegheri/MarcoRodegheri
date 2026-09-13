@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação na PUCRS, 4º semestre — Porto Alegre, RS.
 
 - 🔬 Pesquisador & Desenvolvedor no **PET Informática - PUCRS**, em conjutno com o **LSA** - Laboratório de Sistemas Autônomos
-- 📄 Coautor de artigo científico com destaque nacional no SBSeg-SF 2026
+- 📄 Coautor de artigo científico (PQCinBlock) com destaque nacional no SBSeg-SF 2026
 - 💬 Me pergunte sobre pesquisa aplicada, Java, C ou meus projetos acadêmicos
 - 🎯 Em busca de uma oportunidade de estágio em Desenvolvimento de Software / TI
 
