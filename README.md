@@ -37,7 +37,7 @@ Estudante de Ciência da Computação na PUCRS, 4º semestre — Porto Alegre, R
 ## 📌 Projetos em destaque
 
 - [**Digital_Twins_centros_logisticos**](https://github.com/MarcoRodegheri/Digital_Twins_centros_logisticos) — pesquisa sobre Gêmeos Digitais aplicados à logística, apresentada em pitch a um diretor da Hewlett-Packard (HP)
-- [**Sistema_estacionamento**](https://github.com/MarcoRodegheri/Sistema_estacionamento) — sistema de controle de acesso e cobrança para estacionamentos, em Java (POO)
+- [**PQCinBlock**](https://github.com/conseg/PQCinBlock) — ferramenta de avaliação de algoritmos criptográficos tradicionais e pós-quânticos (PQC) em ambientes de blockchain (Bitcoin e Ethereum), desenvolvida em pesquisa no CONSEG/PPGCC-PUCRS
 - [**Detector_clones_imagens**](https://github.com/MarcoRodegheri/Detector_clones_imagens) — detecção de falsificação por cópia-e-cola em imagens (copy-move forgery), em C puro
 - [**Visualizador_imagens_HDR**](https://github.com/MarcoRodegheri/Visualizador_imagens_HDR) — leitura de imagens HDR com tone mapping (Reinhard/ACES) e correção de gama, em C puro
 
