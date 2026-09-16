@@ -17,7 +17,6 @@ Estudante de Ciência da Computação na PUCRS, 4º semestre — Porto Alegre, R
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASSEMBLY_MIPS--32-6E6E6E?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### ⚙️ Backend
